@@ -1,2 +1,2 @@
-# rsschool-cv1
+# rsschool-cv
 https://IrenaDow.github.io/rsschool-cv/
